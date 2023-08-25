@@ -13,7 +13,6 @@ Welcome to the repository for the project "Exploring the Use of Machine Learning
 - [Libraries Used](#libraries-used)
 - [Usage](#usage)
 - [Contributors](#contributors)
-- [License](#license)
 
 ## Introduction :bulb:
 The goal of this project is to investigate the potential of machine learning algorithms in predicting health insurance premiums. Traditionally, health insurance pricing has been based on actuarial tables and statistical analyses. However, with the advent of machine learning, there is an opportunity to enhance pricing accuracy by considering a broader range of factors and their interactions.
