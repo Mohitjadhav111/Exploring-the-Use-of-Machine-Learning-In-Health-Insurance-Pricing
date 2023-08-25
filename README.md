@@ -36,8 +36,6 @@ Example snippet of the dataset:
 | ... | ...    | ...  | ...    | ...     | ...    | ...               |
 
 ## Steps Taken :rocket:
-## Project Steps
-
 1. **Data Preprocessing:**
    - Cleaned the dataset by handling missing values.
    - Converted categorical variables into numerical representations using one-hot encoding.
@@ -72,7 +70,7 @@ Example snippet of the dataset:
 7. **Comparison:**
    - Compared the performance of machine learning models against traditional pricing methods.
    - Demonstrated potential improvements offered by machine learning techniques.
-## Libraries Used
+## Libraries Used: library
 
 The project utilized the following Python libraries:
 
@@ -82,7 +80,6 @@ The project utilized the following Python libraries:
 - **Scikit-learn:** Used for machine learning algorithms, preprocessing, and model evaluation.
 - **(Add any other libraries you used.)**
 ## Usage :computer:
-## Usage
 
 Follow these steps to use the project:
 
