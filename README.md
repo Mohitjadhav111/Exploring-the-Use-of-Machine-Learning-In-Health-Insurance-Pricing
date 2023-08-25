@@ -27,7 +27,7 @@ The dataset used in this project contains information about individuals and vari
 
 The dataset consists of X entries and Y features. It is stored in a CSV file named health_insurance_data.csv.
 Example snippet of the dataset:
-| age |   sex  | BMI  |Children| smoker  | region | insurance_premium |
+| age |   sex  | BMI  |Children| smoker  | region |      Charges      |
 |-----|--------|------|--------|---------|--------|-------------------|
 | 25  | Female | 24.3 | No     | Yes     | North  | 2300              |
 | 37  | Male   | 29.8 | Yes    | No      | West   | 5800              |
