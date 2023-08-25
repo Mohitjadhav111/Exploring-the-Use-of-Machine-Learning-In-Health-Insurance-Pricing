@@ -1,8 +1,6 @@
-# Exploring-the-Use-of-Machine-Learning-In-Health-Insurance-Pricing
-Savitribai Phule Pune University,Pune.
-Group Project [Mar- Apr 2022]
-
 # Exploring the Use of Machine Learning in Health Insurance Pricing :chart_with_upwards_trend:
+Savitribai Phule Pune University, Pune.
+Group Project [Mar- Apr 2022]
 
 ![Project Logo](project_logo.png) (if you have a logo)
 
