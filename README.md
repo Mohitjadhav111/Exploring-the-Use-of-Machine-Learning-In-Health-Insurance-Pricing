@@ -94,17 +94,11 @@ cd health-insurance-ml-pricing
 3. Install the required libraries:
 4. pip install -r requirements.txt
 4. Run the Jupyter notebook or Python script:
-5. # For Jupyter notebook
+5. For Jupyter notebook
 jupyter notebook
-
-# For Python script
+6.For Python script
 python your_script.py
-This will allow you to perform data preprocessing, analysis, modeling, and evaluation.
-
-You can directly copy and paste this content into your README. It includes headings and properly formatted code blocks for easy understanding and execution.
-
-
-
+This will allow you to perform data preprocessing, analysis, modelling, and evaluation.
 ## Contributors :busts_in_silhouette:
 - Mohit Jadhav(https://github.com/mohitjadhav201)
 - Romit Surywvanshi
