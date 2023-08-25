@@ -82,10 +82,28 @@ The project utilized the following Python libraries:
 - **Scikit-learn:** Used for machine learning algorithms, preprocessing, and model evaluation.
 - **(Add any other libraries you used.)**
 ## Usage :computer:
-Clone this repository: git clone https://github.com/your-username/health-insurance-ml-pricing.git
-Navigate to the project directory: cd health-insurance-ml-pricing
-Install the required libraries: pip install -r requirements.txt
-Run the Jupyter notebook or Python script for data preprocessing, analysis, modeling, and evaluation.
+## Usage
+
+Follow these steps to use the project:
+
+1. **Clone this repository:**
+   ```sh
+   git clone https://github.com/your-username/health-insurance-ml-pricing.git
+2. Navigate to the project directory:
+cd health-insurance-ml-pricing
+3. Install the required libraries:
+4. pip install -r requirements.txt
+4. Run the Jupyter notebook or Python script:
+5. # For Jupyter notebook
+jupyter notebook
+
+# For Python script
+python your_script.py
+This will allow you to perform data preprocessing, analysis, modeling, and evaluation.
+
+You can directly copy and paste this content into your README. It includes headings and properly formatted code blocks for easy understanding and execution.
+
+
 
 ## Contributors :busts_in_silhouette:
 - Mohit Jadhav(https://github.com/mohitjadhav201)
