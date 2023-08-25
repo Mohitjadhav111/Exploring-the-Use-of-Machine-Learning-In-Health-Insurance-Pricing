@@ -2,7 +2,7 @@
 Savitribai Phule Pune University, Pune.
 Group Project [Mar- Apr 2022]
 
-![Project Logo](project_logo.png) (if you have a logo)
+![Project Logo](project_logo.png)
 
 Welcome to the repository for the project "Exploring the Use of Machine Learning in Health Insurance Pricing." In this project, we delve into the application of machine learning techniques to the realm of health insurance pricing. This README file provides an overview of the project, the dataset used, steps taken, and the libraries employed.
 
@@ -70,7 +70,7 @@ Example snippet of the dataset:
 7. **Comparison:**
    - Compared the performance of machine learning models against traditional pricing methods.
    - Demonstrated potential improvements offered by machine learning techniques.
-## Libraries Used: library
+## Libraries Used: 
 
 The project utilized the following Python libraries:
 
