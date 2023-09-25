@@ -76,24 +76,7 @@ The project utilized the following Python libraries:
 - **NumPy:** Utilized for numerical operations on arrays.
 - **Matplotlib and Seaborn:** Employed for data visualization and creating plots.
 - **Scikit-learn:** Used for machine learning algorithms, preprocessing, and model evaluation.
-- **(Add any other libraries you used.)**
-## Usage :computer:
 
-Follow these steps to use the project:
-
-1. **Clone this repository:**
-   ```sh
-   git clone https://github.com/your-username/health-insurance-ml-pricing.git
-2. Navigate to the project directory:
-cd health-insurance-ml-pricing
-3. Install the required libraries:
-4. pip install -r requirements.txt
-4. Run the Jupyter notebook or Python script:
-5. For Jupyter notebook
-jupyter notebook
-6.For Python script
-python your_script.py
-This will allow you to perform data preprocessing, analysis, modelling, and evaluation.
 ## Contributors :busts_in_silhouette:
 - Mohit Jadhav(https://github.com/mohitjadhav201)
 - Romit Surywvanshi
